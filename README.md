@@ -28,7 +28,7 @@ Include jQuery and the waveform plugin in your HTML:
 
 ```html
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="waveform-canvas.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/salarizadi/waveform-canvas/waveform-canvas.min.js"></script>
 ```
 
 ## Usage 🚀
